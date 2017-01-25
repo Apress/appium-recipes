@@ -1,6 +1,6 @@
 #Apress Source Code
 
-This repository accompanies [*Appium Recipes*](http://www.apress.com/9781484224175) by Garg, Shankar (Apress, 2016).
+This repository accompanies [*Appium Recipes*](http://www.apress.com/9781484224175) by Shankar Garg (Apress, 2016).
 
 ![Cover image](9781484224175.jpg)
 
